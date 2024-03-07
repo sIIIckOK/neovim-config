@@ -1,5 +1,6 @@
---vim.opt.number = true 
---vim.opt.relativenumber = true 
+vim.opt.number = true 
+vim.opt.relativenumber = true 
+vim.o.signcolumn = "yes:1"
 
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
